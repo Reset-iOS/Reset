@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2F091C9B2CCFD8DB00F01080 /* Reset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reset.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F7ED7DE2CDA4E3B0057FDF1 /* Reset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reset.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		2F091CAD2CCFD8DC00F01080 /* Exceptions for "Reset" folder in "Reset" target */ = {
+		2F7ED7F02CDA4E3D0057FDF1 /* Exceptions for "Reset" folder in "Reset" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				"/Localized: LaunchScreen.storyboard",
 				"/Localized: Main.storyboard",
 				Info.plist,
 			);
-			target = 2F091C9A2CCFD8DB00F01080 /* Reset */;
+			target = 2F7ED7DD2CDA4E3B0057FDF1 /* Reset */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		2F091CB12CCFD8DC00F01080 /* Exceptions for "Reset" folder in "Copy Bundle Resources" phase from "Reset" target */ = {
+		2F7ED7F42CDA4E3D0057FDF1 /* Exceptions for "Reset" folder in "Copy Bundle Resources" phase from "Reset" target */ = {
 			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = 2F091C992CCFD8DB00F01080 /* Resources */;
+			buildPhase = 2F7ED7DC2CDA4E3B0057FDF1 /* Resources */;
 			membershipExceptions = (
 				Base.lproj/LaunchScreen.storyboard,
 				Base.lproj/Main.storyboard,
@@ -34,11 +34,11 @@
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2F091C9D2CCFD8DB00F01080 /* Reset */ = {
+		2F7ED7E02CDA4E3B0057FDF1 /* Reset */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				2F091CAD2CCFD8DC00F01080 /* Exceptions for "Reset" folder in "Reset" target */,
-				2F091CB12CCFD8DC00F01080 /* Exceptions for "Reset" folder in "Copy Bundle Resources" phase from "Reset" target */,
+				2F7ED7F02CDA4E3D0057FDF1 /* Exceptions for "Reset" folder in "Reset" target */,
+				2F7ED7F42CDA4E3D0057FDF1 /* Exceptions for "Reset" folder in "Copy Bundle Resources" phase from "Reset" target */,
 			);
 			path = Reset;
 			sourceTree = "<group>";
@@ -46,7 +46,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2F091C982CCFD8DB00F01080 /* Frameworks */ = {
+		2F7ED7DB2CDA4E3B0057FDF1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,18 +56,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2F091C922CCFD8DB00F01080 = {
+		2F7ED7D52CDA4E3B0057FDF1 = {
 			isa = PBXGroup;
 			children = (
-				2F091C9D2CCFD8DB00F01080 /* Reset */,
-				2F091C9C2CCFD8DB00F01080 /* Products */,
+				2F7ED7E02CDA4E3B0057FDF1 /* Reset */,
+				2F7ED7DF2CDA4E3B0057FDF1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		2F091C9C2CCFD8DB00F01080 /* Products */ = {
+		2F7ED7DF2CDA4E3B0057FDF1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2F091C9B2CCFD8DB00F01080 /* Reset.app */,
+				2F7ED7DE2CDA4E3B0057FDF1 /* Reset.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -75,64 +75,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2F091C9A2CCFD8DB00F01080 /* Reset */ = {
+		2F7ED7DD2CDA4E3B0057FDF1 /* Reset */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F091CAE2CCFD8DC00F01080 /* Build configuration list for PBXNativeTarget "Reset" */;
+			buildConfigurationList = 2F7ED7F12CDA4E3D0057FDF1 /* Build configuration list for PBXNativeTarget "Reset" */;
 			buildPhases = (
-				2F091C972CCFD8DB00F01080 /* Sources */,
-				2F091C982CCFD8DB00F01080 /* Frameworks */,
-				2F091C992CCFD8DB00F01080 /* Resources */,
+				2F7ED7DA2CDA4E3B0057FDF1 /* Sources */,
+				2F7ED7DB2CDA4E3B0057FDF1 /* Frameworks */,
+				2F7ED7DC2CDA4E3B0057FDF1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2F091C9D2CCFD8DB00F01080 /* Reset */,
+				2F7ED7E02CDA4E3B0057FDF1 /* Reset */,
 			);
 			name = Reset;
 			packageProductDependencies = (
 			);
 			productName = Reset;
-			productReference = 2F091C9B2CCFD8DB00F01080 /* Reset.app */;
+			productReference = 2F7ED7DE2CDA4E3B0057FDF1 /* Reset.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		2F091C932CCFD8DB00F01080 /* Project object */ = {
+		2F7ED7D62CDA4E3B0057FDF1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					2F091C9A2CCFD8DB00F01080 = {
+					2F7ED7DD2CDA4E3B0057FDF1 = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = 2F091C962CCFD8DB00F01080 /* Build configuration list for PBXProject "Reset" */;
+			buildConfigurationList = 2F7ED7D92CDA4E3B0057FDF1 /* Build configuration list for PBXProject "Reset" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 2F091C922CCFD8DB00F01080;
+			mainGroup = 2F7ED7D52CDA4E3B0057FDF1;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 2F091C9C2CCFD8DB00F01080 /* Products */;
+			productRefGroup = 2F7ED7DF2CDA4E3B0057FDF1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2F091C9A2CCFD8DB00F01080 /* Reset */,
+				2F7ED7DD2CDA4E3B0057FDF1 /* Reset */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2F091C992CCFD8DB00F01080 /* Resources */ = {
+		2F7ED7DC2CDA4E3B0057FDF1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -142,7 +142,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2F091C972CCFD8DB00F01080 /* Sources */ = {
+		2F7ED7DA2CDA4E3B0057FDF1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -152,7 +152,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		2F091CAF2CCFD8DC00F01080 /* Debug */ = {
+		2F7ED7F22CDA4E3D0057FDF1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -180,7 +180,7 @@
 			};
 			name = Debug;
 		};
-		2F091CB02CCFD8DC00F01080 /* Release */ = {
+		2F7ED7F32CDA4E3D0057FDF1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -208,7 +208,7 @@
 			};
 			name = Release;
 		};
-		2F091CB22CCFD8DC00F01080 /* Debug */ = {
+		2F7ED7F52CDA4E3D0057FDF1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -271,7 +271,7 @@
 			};
 			name = Debug;
 		};
-		2F091CB32CCFD8DC00F01080 /* Release */ = {
+		2F7ED7F62CDA4E3D0057FDF1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,25 +330,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2F091C962CCFD8DB00F01080 /* Build configuration list for PBXProject "Reset" */ = {
+		2F7ED7D92CDA4E3B0057FDF1 /* Build configuration list for PBXProject "Reset" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2F091CB22CCFD8DC00F01080 /* Debug */,
-				2F091CB32CCFD8DC00F01080 /* Release */,
+				2F7ED7F52CDA4E3D0057FDF1 /* Debug */,
+				2F7ED7F62CDA4E3D0057FDF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F091CAE2CCFD8DC00F01080 /* Build configuration list for PBXNativeTarget "Reset" */ = {
+		2F7ED7F12CDA4E3D0057FDF1 /* Build configuration list for PBXNativeTarget "Reset" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2F091CAF2CCFD8DC00F01080 /* Debug */,
-				2F091CB02CCFD8DC00F01080 /* Release */,
+				2F7ED7F22CDA4E3D0057FDF1 /* Debug */,
+				2F7ED7F32CDA4E3D0057FDF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 2F091C932CCFD8DB00F01080 /* Project object */;
+	rootObject = 2F7ED7D62CDA4E3B0057FDF1 /* Project object */;
 }
