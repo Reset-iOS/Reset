@@ -16,6 +16,26 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2F08C42E2CE848F100F7E72A /* Exceptions for "ViewControllers" folder in "Reset" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				AddPostsViewController.swift,
+				CommunityViewController.swift,
+				DetailViewController.swift,
+				FriendsViewController.swift,
+				HomeViewController.swift,
+				JournalViewController.swift,
+				NoteViewController.swift,
+				PostsViewController.swift,
+				ProgressViewController.swift,
+				SavingSettingsViewController.swift,
+				SavingsViewController.swift,
+				SpacesViewController.swift,
+				SponsorViewController.swift,
+				SupportViewController.swift,
+			);
+			target = 2F091C9A2CCFD8DB00F01080 /* Reset */;
+		};
 		2F091CAD2CCFD8DC00F01080 /* Exceptions for "Reset" folder in "Reset" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -39,6 +59,14 @@
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		2F08C42D2CE848DE00F7E72A /* ViewControllers */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2F08C42E2CE848F100F7E72A /* Exceptions for "ViewControllers" folder in "Reset" target */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		2F091C9D2CCFD8DB00F01080 /* Reset */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -67,6 +95,7 @@
 				4088C3B22CDB1A0100D8A4E3 /* profile.storyboard */,
 				2F091C9D2CCFD8DB00F01080 /* Reset */,
 				2F091C9C2CCFD8DB00F01080 /* Products */,
+				2F08C42D2CE848DE00F7E72A /* ViewControllers */,
 			);
 			sourceTree = "<group>";
 		};

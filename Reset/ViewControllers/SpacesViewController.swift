@@ -1,19 +1,17 @@
 //
-//  FriendsViewController.swift
+//  SpacesViewController.swift
 //  Reset
 //
-//  Created by Prasanjit Panda on 12/11/24.
+//  Created by Prasanjit Panda on 14/11/24.
 //
 
 import UIKit
 
-class FriendsViewController: UIViewController {
+class SpacesViewController: UIViewController {
 
-    let searchController = UISearchController()
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "Add friends and family"
-        navigationItem.searchController = searchController
+
         // Do any additional setup after loading the view.
     }
     
